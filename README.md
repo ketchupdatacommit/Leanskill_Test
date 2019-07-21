@@ -1,4 +1,4 @@
-Codinfg Challenge for Lean Skill 
+Coding Challenge for Lean Skill 
 
 Please use a Python 3 environment for running the code 
 
